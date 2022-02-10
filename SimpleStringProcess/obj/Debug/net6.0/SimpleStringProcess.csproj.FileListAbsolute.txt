@@ -1,0 +1,15 @@
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\SimpleStringProcess.exe
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\SimpleStringProcess.deps.json
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\SimpleStringProcess.runtimeconfig.json
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\SimpleStringProcess.dll
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\ref\SimpleStringProcess.dll
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\bin\Debug\net6.0\SimpleStringProcess.pdb
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.csproj.AssemblyReference.cache
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.AssemblyInfoInputs.cache
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.AssemblyInfo.cs
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.dll
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\ref\SimpleStringProcess.dll
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.pdb
+D:\RiderProjects\SimpleStringProcess\SimpleStringProcess\obj\Debug\net6.0\SimpleStringProcess.genruntimeconfig.cache
